@@ -1,4 +1,4 @@
----
+---REDMI8
 name: Xiaomi
 subtitle: except Android One
 manufacturer:
